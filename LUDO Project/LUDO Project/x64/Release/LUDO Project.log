@@ -1,0 +1,14 @@
+﻿  LUDO Project.cpp
+C:\Users\dell\Desktop\SFML-3.0.0-windows-vc17-64-bit\SFML-3.0.0\include\SFML\System\Exception.hpp(41,47): warning C4275: non dll-interface class 'std::runtime_error' used as base for dll-interface class 'sf::Exception'
+  (compiling source file 'LUDO%20Project.cpp')
+      C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\include\stdexcept(100,30):
+      see declaration of 'std::runtime_error'
+      C:\Users\dell\Desktop\SFML-3.0.0-windows-vc17-64-bit\SFML-3.0.0\include\SFML\System\Exception.hpp(41,23):
+      see declaration of 'sf::Exception'
+  
+  Generating code
+  10 of 10 functions (100.0%) were compiled.
+    9 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  LUDO Project.vcxproj -> D:\FAST\Semester 1\Programming Fundamentals\Project\LUDO Project\x64\Release\LUDO Project.exe
